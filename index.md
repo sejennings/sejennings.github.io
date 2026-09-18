@@ -18,7 +18,11 @@ automation, statistical analysis, and machine learning.
 
 ## Projects
 
-Portfolio projects coming soon.
+## Heavy Equipment Lifecycle Model
+
+Predicts the residual auction value of heavy equipment based on equipment category, age, and operating hours.
+
+[Launch the Equipment Value Calculator](https://heavy-equipment-lifecycle-model.streamlit.app/)
 
 ---
 
