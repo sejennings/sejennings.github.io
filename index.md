@@ -48,3 +48,4 @@ business intelligence, process automation, and cross-functional analytics.
 ## Contact
 
 [GitHub](https://github.com/sejennings)
+[LinkedIn](https://www.linkedin.com/in/sarah-e-jennings)
