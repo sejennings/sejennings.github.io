@@ -34,8 +34,8 @@ anomaly-detection models, and an interactive dashboard for exploring
 historical conditions and model-flagged events.
 
 [View Project](./projects/air-quality-tracker.html)  
-[Launch Dashboard](YOUR_DASHBOARD_URL)  
-[View Code](YOUR_GITHUB_REPO_URL)
+[Launch Dashboard](https://air-quality-dashboard-236256523935.us-east1.run.app)  
+[View Code](https://github.com/sejennings/air_quality_tracker/tree/main)
 ---
 
 ## Skills
@@ -43,7 +43,7 @@ historical conditions and model-flagged events.
 **Languages & Analytics:** Python, SQL, R  
 **Data & BI:** Power BI, Excel, Pandas, NumPy  
 **Machine Learning:** scikit-learn, XGBoost, TensorFlow, PyTorch  
-**Data Platforms:** Snowflake, AWS, Azure
+**Data Platforms:** Snowflake, AWS, GCP
 
 ---
 
