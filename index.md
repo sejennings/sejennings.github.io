@@ -33,9 +33,8 @@ The project combines automated data collection, feature engineering,
 anomaly-detection models, and an interactive dashboard for exploring
 historical conditions and model-flagged events.
 
-[View Project](./projects/air-quality-tracker.html)  
-[Launch Dashboard](https://air-quality-dashboard-236256523935.us-east1.run.app)  
-[View Code](https://github.com/sejennings/air_quality_tracker/tree/main)
+[Launch Dashboard](https://air-quality-dashboard-236256523935.us-east1.run.app)
+[View Code](https://github.com/sejennings/air_quality_tracker/tree/main))
 ---
 
 ## Skills
