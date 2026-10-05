@@ -24,6 +24,18 @@ Predicts the residual auction value of heavy equipment based on equipment catego
 
 [Launch the Equipment Value Calculator](https://heavy-equipment-lifecycle-model.streamlit.app/)
 
+## Air Quality Anomaly Detection & Monitoring
+
+Machine learning pipeline for identifying unusual PM2.5 and ozone conditions
+across the Triangle region of North Carolina using EPA air-quality data.
+
+The project combines automated data collection, feature engineering,
+anomaly-detection models, and an interactive dashboard for exploring
+historical conditions and model-flagged events.
+
+[View Project](./projects/air-quality-tracker.html)  
+[Launch Dashboard](YOUR_DASHBOARD_URL)  
+[View Code](YOUR_GITHUB_REPO_URL)
 ---
 
 ## Skills
